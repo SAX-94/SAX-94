@@ -5,7 +5,7 @@
 
 - 🌱 I’m constantly learning and improving **my IT skills**
 
-- 📫 How to reach me **matteosacchi@protonmail.com**
+- 📫 How to reach me: **matteosacchi@protonmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
