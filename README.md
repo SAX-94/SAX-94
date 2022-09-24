@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [the final project of Boolean](https://github.com/team3-deliveboo/deliveboo)
 
+- 🌱 I’m constantly learning and improving **my IT skills**
+
 - 📫 How to reach me **matteosacchi@protonmail.com**
 
 <h3 align="center">Connect with me:</h3>
