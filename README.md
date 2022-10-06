@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Matteo Sacchi</h1>
-<h3 align="center">A Jr Full-Stack Web Developer</h3>
+<h3 align="center">A Jr. Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [my final project for Boolean](https://github.com/team3-deliveboo/deliveboo)
 
