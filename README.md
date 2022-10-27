@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a job.
 
-- 🌱 I’m constantly learning and improving my IT skills
+- 🌱 I’m constantly learning and improving my IT skills.
 
 - 📫 How to reach me: **matteosacchi@protonmail.com**
 
