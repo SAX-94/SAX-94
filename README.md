@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Matteo Sacchi</h1>
 <h3 align="center">I'm a Jr. Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently looking for a job.
 
 - 🌱 I’m constantly learning and improving my IT skills.
 
